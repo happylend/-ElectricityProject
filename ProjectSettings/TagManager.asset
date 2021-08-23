@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Electricity
+  - Piles
+  - puzzleBox
+  - Magnet
+  - Launch
+  - MissionContent
+  - PuzzleEnd
+  - Gun
+  - ElectromagneticGun
+  - PlayerBullet
+  - MagnetCheck
+  - BOSS
+  - Bomb
+  - PulseBall
+  - Floor
   layers:
   - Default
   - TransparentFX
@@ -11,13 +26,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Weapon
+  - Enemy
+  - Player
+  - PlayerBullet
+  - puzzleBox
+  - Launch
   - 
   - 
   - 
